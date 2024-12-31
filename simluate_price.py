@@ -272,7 +272,7 @@ if __name__ == "__main__":
             amount_of_alumni=10,
             alumni_paying=True,
             alumni_discount=1,
-            net_result=-300,
+            net_result=-500,
         ),
         # Params(
         #     beer_per_person=10,
